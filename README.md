@@ -1,6 +1,6 @@
 # 🍎 Apple DevStore
 
-Projeto front-end desenvolvido como parte de um **trabalho acadêmico** do curso de **Análise e Desenvolvimento de Sistemas**, com foco em **HTML, CSS e JavaScript**, simulando uma loja virtual inspirada no ecossistema Apple.
+Projeto front-end desenvolvido como parte de um **trabalho acadêmico** do curso de **Análise e Desenvolvimento de Sistemas**, com foco em **HTML, CSS e JavaScript**, simulando uma loja virtual inspirada no ecossistema IPalace.
 
 ---
 
